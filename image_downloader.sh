@@ -29,7 +29,7 @@ echo "Ok...... working........................."
 echo
 fi ; done
 }
-function imageDownload {bash
+function imageDownload {
 grabURL
 echo
 
